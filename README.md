@@ -13,12 +13,3 @@ This project analyzes data from cooking sessions to uncover trends and actionabl
 
 ---
 
-## Repository Structure
-
-```plaintext
-Cooking-Session-Insights/
-├── data/                 # Folder for datasets
-├── images/               # Folder for visualizations
-├── cooking_analysis.ipynb # Main analysis notebook
-├── README.md             # Project documentation
-└── requirements.txt      # Python dependencies
