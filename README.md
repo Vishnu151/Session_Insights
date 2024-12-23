@@ -14,7 +14,7 @@ This project analyzes data from cooking sessions to uncover trends and actionabl
 ---
 ## Summary of Findings
 
-1. Correlation Between Session Duration and Total Orders
+- 1. Correlation Between Session Duration and Total Orders
 
   - The correlation coefficient between session duration and total orders is 0.453.
 
