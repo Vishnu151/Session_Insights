@@ -22,63 +22,65 @@ This project analyzes data from cooking sessions to uncover trends and actionabl
 
 2. Orders by Session Time of Day
 
-Peak Hours:
+  - Peak Hours:
 
-7:00 PM (5 orders)
+    - 7:00 PM (5 orders)
 
-6:00 PM (3 orders)
+    - 6:00 PM (3 orders)
 
-Moderate Activity: Afternoon sessions (12:00 PM, 1:00 PM).
+  - Moderate Activity: Afternoon sessions (12:00 PM, 1:00 PM).
 
-Minimal Activity: Morning sessions (7:00 AM, 8:00 AM).
+  - Minimal Activity: Morning sessions (7:00 AM, 8:00 AM).
 
-This suggests that evening time slots are the most popular for sessions and should be the focus for maximizing engagement and order volume.
+  - This suggests that evening time slots are the most popular for sessions and should be the focus for maximizing engagement and order volume.
 
 3. Popular Dishes
 
-Top Dishes: Grilled Chicken (4 orders), Spaghetti (4 orders), Caesar Salad (3 orders).
+  - Top Dishes: Grilled Chicken (4 orders), Spaghetti (4 orders), Caesar Salad (3 orders).
 
-Low-Activity Dishes: Pancakes, Veggie Burger, Oatmeal.
+  - Low-Activity Dishes: Pancakes, Veggie Burger, Oatmeal.
 
-The presence of "No Session/Orders" indicates missing or unlinked data points, which should be addressed for improved accuracy.
+  - The presence of "No Session/Orders" indicates missing or unlinked data points, which should be addressed for improved accuracy.
 
 4. Demographics and Order Patterns
 
-Age Group Analysis
+  - Age Group Analysis
 
-Majority of orders: 25-30 age group (38.9%).
+    - Majority of orders: 25-30 age group (38.9%).
 
-Equal contribution: 30-35 and 35-40 age groups (22.2% each).
+    - Equal contribution: 30-35 and 35-40 age groups (22.2% each).
 
-Least contribution: 40-45 age group (16.7%).
+    - Least contribution: 40-45 age group (16.7%).
 
-Younger audiences (25-30) are the most active demographic, suggesting targeted marketing strategies for this group could enhance engagement.
+    - Younger audiences (25-30) are the most active demographic, suggesting targeted marketing strategies for this group could enhance engagement.
 
 5. Orders by Location
 
-Locations with the highest number of orders:
+  - Locations with the highest number of orders:
 
-Chicago, Los Angeles, and New York: 3 orders each.
+    - Chicago, Los Angeles, and New York: 3 orders each.
 
-San Francisco and Seattle: 2 orders each.
+    - San Francisco and Seattle: 2 orders each.
 
-Lower activity locations: Austin, Boston, Dallas, Miami, Phoenix (1 order each).
+  - Lower activity locations: Austin, Boston, Dallas, Miami, Phoenix (1 order each).
 
-Major cities like Chicago, Los Angeles, and New York are key markets for driving orders.
+  - Major cities like Chicago, Los Angeles, and New York are key markets for driving orders.
 
 6. Favorite Meals
 
-Meal Preferences (by order count):
+  - Meal Preferences (by order count):
 
-Dinner: 8 orders (most popular).
+    - Dinner: 8 orders (most popular).
 
-Lunch: 6 orders.
+    - Lunch: 6 orders.
 
-Breakfast: 4 orders (least popular).
+    - Breakfast: 4 orders (least popular).
 
-Dinner is the prime opportunity for engagement and promotions.
+  - Dinner is the prime opportunity for engagement and promotions.
 
-Recommendations
+--- 
+
+## Recommendations
 
 1. Enhance Evening Slot Engagement
 
@@ -114,7 +116,9 @@ Highlight dinner promotions prominently in advertisements.
 
 Maintain consistent and complete data recording to improve future insights.
 
-Key Visualizations
+---
+
+### Key Visualizations
 
 Correlation Heatmap:
 
